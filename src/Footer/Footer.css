@@ -1,0 +1,37 @@
+#footer{
+    background-color: #2C3E50;
+     padding: 80px 0 0;
+     
+}
+#footer h3{
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 34px;
+    color: white;
+}
+#footer p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24p;
+    color: white;
+}
+#footer .icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid white;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0 3px;
+}
+#footer .copyright{
+    background-color: #1A252F;
+    color:white;
+    
+    padding:20px 0;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 24px;
+}

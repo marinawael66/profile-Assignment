@@ -1,0 +1,24 @@
+#contact h2,
+#contact span{
+    color:#2C3E50;
+}
+#contact .line
+{
+    background-color: #2C3E50;
+}
+#contact .shape{
+    margin: auto;
+}
+ #contact .form-control {
+  border: none;             
+  border-bottom: 1px solid rgba(0,0,0,0.1); 
+  border-radius: 0;          
+}
+ #contact .form-control:focus{
+    box-shadow: none;
+ }
+#contact button{
+    color:white;
+    background-color: #1ABC9C;
+    margin-top: 20px;
+}

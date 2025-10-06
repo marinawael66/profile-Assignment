@@ -1,0 +1,27 @@
+#portfolio h2,
+#portfolio span{
+    color:#2C3E50;
+}
+#portfolio .line
+{
+    background-color: #2C3E50;
+}
+#portfolio .shape{
+    margin: auto;
+}
+#portfolio .hoverlayer{
+    opacity: 0;
+    background-color: #1ABC9C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.7s;
+    z-index: 99;
+}
+#portfolio .hoverlayer:hover{
+    opacity: 1;
+}
+#portfolio .hoverlayer span{
+    color:white;
+    font-size: 100px;
+}

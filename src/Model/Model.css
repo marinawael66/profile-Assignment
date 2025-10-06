@@ -1,0 +1,12 @@
+.layer{
+    z-index: 999; 
+    text-align: center;
+}
+.overlay {
+  background-color: rgba(0, 0, 255, 0.2); /* خلفية معتمة */
+  opacity: 1; /* الشفافية للخلفية فقط */
+}
+.layer img{
+    width: 70%;
+    
+}
